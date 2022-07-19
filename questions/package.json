@@ -1,0 +1,11 @@
+{
+  "name": "questions",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Simran Awasthi",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "tsc --project ./ && node ./dist"
+  }
+}
